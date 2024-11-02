@@ -1,6 +1,6 @@
 # Roman Numeral Converter
 
-This web-based tool allows users to convert decimal numbers into Roman numerals. It’s a simple and interactive application built with HTML, CSS, and JavaScript.
+This web-based tool allows users to convert decimal numbers into Roman numerals. It’s a simple and interactive application built with HTML, CSS, and JavaScript. [TRY NOW!](https://qyuzet.github.io/js-c-roman-converter/)
 
 ## Features
 
@@ -10,7 +10,7 @@ This web-based tool allows users to convert decimal numbers into Roman numerals.
 
 ## Demo
 
-A live demo can be found [here]().
+A live demo can be found [here](https://qyuzet.github.io/js-c-roman-converter/).
 
 ## Getting Started
 
